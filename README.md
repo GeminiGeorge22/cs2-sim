@@ -1,5 +1,7 @@
 # CS2 Sim
 
+[![cs2-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/cs2-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/cs2-sim)
+
 CS2 Sim is a **Counter-Strike 2 economy simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Ask: How much money after this loss? Should we buy, force, or eco? Simulate the rest of the half.
 
 Operated by **FMF Tools**.
