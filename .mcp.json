@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cs2-sim": {
+      "type": "http",
+      "url": "https://cs2-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}
